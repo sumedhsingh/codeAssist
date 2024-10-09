@@ -37,7 +37,7 @@ async function runCodeInsight() {
         return;
     }
 
-    const pythonPath = vscode.workspace.getConfiguration('codeinsight').get('pythonPath', 'python');
+    const pythonPath = path.join(__dirname, 'venv', 'Scripts', 'python.exe');
     const scriptPath = path.join(__dirname, 'codeinsight.py');
 
     if (!fs.existsSync(scriptPath)) {
