@@ -4,7 +4,7 @@
 
 CodeInsight is a powerful VSCode extension that provides advanced code analysis capabilities for Python and JavaScript projects. This extension leverages the capabilities of the CodeInsight CLI tool to offer developers valuable insights into their code structure, complexity, potential code smells, performance improvement suggestions, and automated documentation generation.
 
-![CodeInsight Extension Screenshot](photo (2).png)
+![CodeInsight Extension Screenshot](vscode/photo (2).png)
 
 ## Features
 
