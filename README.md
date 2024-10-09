@@ -2,9 +2,9 @@
 
 ## Overview
 
-CodeInsight is a powerful VSCode extension that provides advanced code analysis capabilities for Python and JavaScript projects. This extension leverages the capabilities of the CodeInsight CLI tool to offer developers valuable insights into their code structure, complexity, potential code smells, performance improvement suggestions, and automated documentation generation.
+CodeInsight is a handy VSCode extension designed to give developers deeper insights into their Python and JavaScript code. It breaks down your code’s structure, highlights complexity levels, flags potential code smells, and even suggests ways to boost performance. With built-in documentation generation, CodeInsight also helps you create README files. It uses GROQ's API to generate suggestions.
 
-![CodeInsight Extension Screenshot](vscode/photo (2).png)
+![CodeInsight Extension Screenshot](vscode/ss.png)
 
 ## Features
 
@@ -71,12 +71,3 @@ You can customize CodeInsight's behavior in your VSCode settings:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This extension uses the Groq API for AI-powered code analysis.
-- Special thanks to the open-source community for inspiration and support.
