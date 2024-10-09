@@ -70,4 +70,4 @@ You can customize CodeInsight's behavior in your VSCode settings:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! I plan to keep working on this to make the setup easier and even publish this as a vscode extension in the future.
